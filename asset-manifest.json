@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://joelsuarez33.github.io/csb-jwuxm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://joelsuarez33.github.io/csb-jwuxm/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://joelsuarez33.github.io/csb-jwuxm/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://joelsuarez33.github.io/csb-jwuxm/static/js/runtime-main.85834839.js",
+    "runtime-main.js.map": "https://joelsuarez33.github.io/csb-jwuxm/static/js/runtime-main.85834839.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://joelsuarez33.github.io/csb-jwuxm/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://joelsuarez33.github.io/csb-jwuxm/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://joelsuarez33.github.io/csb-jwuxm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://joelsuarez33.github.io/csb-jwuxm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://joelsuarez33.github.io/csb-jwuxm/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85834839.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
